@@ -1,4 +1,4 @@
-# Todo App
+# Take Home Test – Software Engineer Internship - Todo App
 
 Simple Todo REST API with frontend, built with Next.js (App Router + TypeScript) and Express.js backend using Sequelize + SQLite.  
 Frontend styled with ShadCN UI.
